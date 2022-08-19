@@ -4,5 +4,11 @@ html, body {
     width: 100%;
   } 
 body {
-    background-color: linear-gradient(#26abff,#be2ed6);
+    background-image: linear-gradient(#26abff,#be2ed6,#b100cd);
+    background-repeat: no-repeat;
   }
+
+.test{ 
+  text-align: center;
+  font-size:  50px;;
+}
